@@ -1404,7 +1404,7 @@ body.active {
   /* photo detail */
 
   .Photo-detail {
-    padding-bottom: var(--section-padding);
+    padding-bottom: var(---padding);
   }
 
   .Photo-detail-content {
